@@ -1,4 +1,4 @@
-# HR-Analytics [Power BI Project]
+# HR_Analytics [Power BI Project]
 
 Objective:
 
